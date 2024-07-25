@@ -51,6 +51,11 @@ a {
   text-decoration: none;
 }
 
+html,
+body {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Poppins", sans-serif;
 }
